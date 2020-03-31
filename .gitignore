@@ -1,2 +1,11 @@
+.idea
+*.iml
+
 lesson1/*.iml
 lesson1/.idea
+
+movie/*.iml
+movie/*.idea
+
+transport/*.iml
+transport/*.idea
